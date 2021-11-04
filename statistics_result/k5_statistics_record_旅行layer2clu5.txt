@@ -1,0 +1,140 @@
+景点
+0	{'key': '游玩时间', 'valueType': 'region', 'minValue': 1.0, 'maxValue': 2.0, 'unit': '小时', 'value': ''}
+1	{'key': '游玩时间', 'valueType': 'enum', 'minValue': 1, 'maxValue': 1, 'unit': '小时', 'value': '1小时'}
+2	{'key': '游玩时间', 'valueType': 'region', 'minValue': 2.0, 'maxValue': 3.0, 'unit': '小时', 'value': ''}
+3	{'key': '游玩时间', 'valueType': 'region', 'minValue': 2.0, 'maxValue': 4.0, 'unit': '小时', 'value': ''}
+4	{'key': '游玩时间', 'valueType': 'region', 'minValue': 2.0, 'maxValue': 6.0, 'unit': '小时', 'value': ''}
+5	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+6	{'key': '门票', 'valueType': 'region', 'minValue': 0.0, 'maxValue': 20.0, 'unit': '分', 'value': ''}
+7	{'key': '门票', 'valueType': 'region', 'minValue': 20.0, 'maxValue': 50.0, 'unit': '元', 'value': ''}
+8	{'key': '门票', 'valueType': 'region', 'minValue': 150.0, 'maxValue': 200.0, 'unit': '元', 'value': ''}
+9	{'key': '门票', 'valueType': 'region', 'minValue': 50.0, 'maxValue': 100.0, 'unit': '元', 'value': ''}
+酒店
+0	{'key': '价格', 'valueType': 'region', 'minValue': 300.0, 'maxValue': 400.0, 'unit': '元', 'value': ''}
+1	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+2	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '经济型', 'value': '经济型'}
+ID	55
+景点
+酒店
+ID	74
+景点
+0	{'key': '游玩时间', 'valueType': 'region', 'minValue': 1.0, 'maxValue': 2.0, 'unit': '小时', 'value': ''}
+6	{'key': '门票', 'valueType': 'region', 'minValue': 0.0, 'maxValue': 20.0, 'unit': '分', 'value': ''}
+5	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+酒店
+0	{'key': '价格', 'valueType': 'region', 'minValue': 300.0, 'maxValue': 400.0, 'unit': '元', 'value': ''}
+2	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '经济型', 'value': '经济型'}
+ID	75
+景点
+0	{'key': '游玩时间', 'valueType': 'region', 'minValue': 1.0, 'maxValue': 2.0, 'unit': '小时', 'value': ''}
+6	{'key': '门票', 'valueType': 'region', 'minValue': 0.0, 'maxValue': 20.0, 'unit': '分', 'value': ''}
+5	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+酒店
+ID	76
+景点
+5	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+7	{'key': '门票', 'valueType': 'region', 'minValue': 20.0, 'maxValue': 50.0, 'unit': '元', 'value': ''}
+1	{'key': '游玩时间', 'valueType': 'enum', 'minValue': 1, 'maxValue': 1, 'unit': '小时', 'value': '1小时'}
+酒店
+ID	77
+景点
+酒店
+0	{'key': '价格', 'valueType': 'region', 'minValue': 300.0, 'maxValue': 400.0, 'unit': '元', 'value': ''}
+1	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+2	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '经济型', 'value': '经济型'}
+ID	78
+景点
+5	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+7	{'key': '门票', 'valueType': 'region', 'minValue': 20.0, 'maxValue': 50.0, 'unit': '元', 'value': ''}
+1	{'key': '游玩时间', 'valueType': 'enum', 'minValue': 1, 'maxValue': 1, 'unit': '小时', 'value': '1小时'}
+酒店
+0	{'key': '价格', 'valueType': 'region', 'minValue': 300.0, 'maxValue': 400.0, 'unit': '元', 'value': ''}
+2	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '经济型', 'value': '经济型'}
+ID	79
+景点
+0	{'key': '游玩时间', 'valueType': 'region', 'minValue': 1.0, 'maxValue': 2.0, 'unit': '小时', 'value': ''}
+5	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+8	{'key': '门票', 'valueType': 'region', 'minValue': 150.0, 'maxValue': 200.0, 'unit': '元', 'value': ''}
+酒店
+ID	80
+景点
+0	{'key': '游玩时间', 'valueType': 'region', 'minValue': 1.0, 'maxValue': 2.0, 'unit': '小时', 'value': ''}
+5	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+8	{'key': '门票', 'valueType': 'region', 'minValue': 150.0, 'maxValue': 200.0, 'unit': '元', 'value': ''}
+酒店
+0	{'key': '价格', 'valueType': 'region', 'minValue': 300.0, 'maxValue': 400.0, 'unit': '元', 'value': ''}
+2	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '经济型', 'value': '经济型'}
+ID	81
+景点
+2	{'key': '游玩时间', 'valueType': 'region', 'minValue': 2.0, 'maxValue': 3.0, 'unit': '小时', 'value': ''}
+5	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+9	{'key': '门票', 'valueType': 'region', 'minValue': 50.0, 'maxValue': 100.0, 'unit': '元', 'value': ''}
+酒店
+ID	82
+景点
+2	{'key': '游玩时间', 'valueType': 'region', 'minValue': 2.0, 'maxValue': 3.0, 'unit': '小时', 'value': ''}
+5	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+9	{'key': '门票', 'valueType': 'region', 'minValue': 50.0, 'maxValue': 100.0, 'unit': '元', 'value': ''}
+酒店
+0	{'key': '价格', 'valueType': 'region', 'minValue': 300.0, 'maxValue': 400.0, 'unit': '元', 'value': ''}
+2	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '经济型', 'value': '经济型'}
+ID	83
+景点
+0	{'key': '游玩时间', 'valueType': 'region', 'minValue': 1.0, 'maxValue': 2.0, 'unit': '小时', 'value': ''}
+5	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+9	{'key': '门票', 'valueType': 'region', 'minValue': 50.0, 'maxValue': 100.0, 'unit': '元', 'value': ''}
+酒店
+ID	84
+景点
+0	{'key': '游玩时间', 'valueType': 'region', 'minValue': 1.0, 'maxValue': 2.0, 'unit': '小时', 'value': ''}
+5	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+9	{'key': '门票', 'valueType': 'region', 'minValue': 50.0, 'maxValue': 100.0, 'unit': '元', 'value': ''}
+酒店
+0	{'key': '价格', 'valueType': 'region', 'minValue': 300.0, 'maxValue': 400.0, 'unit': '元', 'value': ''}
+2	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '经济型', 'value': '经济型'}
+ID	85
+景点
+3	{'key': '游玩时间', 'valueType': 'region', 'minValue': 2.0, 'maxValue': 4.0, 'unit': '小时', 'value': ''}
+5	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+7	{'key': '门票', 'valueType': 'region', 'minValue': 20.0, 'maxValue': 50.0, 'unit': '元', 'value': ''}
+酒店
+ID	86
+景点
+3	{'key': '游玩时间', 'valueType': 'region', 'minValue': 2.0, 'maxValue': 4.0, 'unit': '小时', 'value': ''}
+5	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+7	{'key': '门票', 'valueType': 'region', 'minValue': 20.0, 'maxValue': 50.0, 'unit': '元', 'value': ''}
+酒店
+0	{'key': '价格', 'valueType': 'region', 'minValue': 300.0, 'maxValue': 400.0, 'unit': '元', 'value': ''}
+2	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '经济型', 'value': '经济型'}
+ID	87
+景点
+4	{'key': '游玩时间', 'valueType': 'region', 'minValue': 2.0, 'maxValue': 6.0, 'unit': '小时', 'value': ''}
+5	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+9	{'key': '门票', 'valueType': 'region', 'minValue': 50.0, 'maxValue': 100.0, 'unit': '元', 'value': ''}
+酒店
+ID	88
+景点
+4	{'key': '游玩时间', 'valueType': 'region', 'minValue': 2.0, 'maxValue': 6.0, 'unit': '小时', 'value': ''}
+5	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+9	{'key': '门票', 'valueType': 'region', 'minValue': 50.0, 'maxValue': 100.0, 'unit': '元', 'value': ''}
+酒店
+0	{'key': '价格', 'valueType': 'region', 'minValue': 300.0, 'maxValue': 400.0, 'unit': '元', 'value': ''}
+2	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '经济型', 'value': '经济型'}
+ID	89
+景点
+酒店
+ID	100
+景点
+酒店
+ID	107
+景点
+酒店
+ID	109
+景点
+酒店
+ID	113
+景点
+酒店
+ID	117
+景点
+酒店

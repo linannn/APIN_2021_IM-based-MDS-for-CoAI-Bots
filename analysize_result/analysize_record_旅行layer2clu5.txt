@@ -1,0 +1,22 @@
+地铁
+{'goalId': 7168, 'key': '目的地', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '北京香江戴斯酒店'}
+{'goalId': 7168, 'key': '出发地', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '天安门广场'}
+{'goalId': 7169, 'key': '目的地', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '北京香江戴斯酒店'}
+{'goalId': 7169, 'key': '出发地', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '天安门广场'}
+酒店
+{'goalId': 7170, 'key': '价格', 'valueType': 'region', 'minValue': 300.0, 'maxValue': 400.0, 'unit': '元', 'value': ''}
+{'goalId': 7170, 'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+{'goalId': 7170, 'key': '酒店类型', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '经济型'}
+137
+地铁
+{'goalId': 7168, 'key': '目的地', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '北京香江戴斯酒店'}
+{'goalId': 7168, 'key': '出发地', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '天安门广场'}
+酒店
+{'goalId': 7170, 'key': '价格', 'valueType': 'region', 'minValue': 300.0, 'maxValue': 400.0, 'unit': '元', 'value': ''}
+{'goalId': 7170, 'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+{'goalId': 7170, 'key': '酒店类型', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '经济型'}
+138
+地铁
+{'goalId': 7169, 'key': '目的地', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '北京香江戴斯酒店'}
+{'goalId': 7169, 'key': '出发地', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '天安门广场'}
+酒店

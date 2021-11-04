@@ -1,0 +1,391 @@
+﻿----------------------------------------
+> Wed, 11 Nov 202010:34:13 - INFO - core_tree_pid_k2_e4_1.py - [line:134] -  Start of program
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:13 - INFO - core_tree_pid_k2_e4_1.py - [line:138] -  test_id:
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:13 - INFO - core_tree_pid_k2_e4_1.py - [line:139] -  5
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:13 - INFO - core_tree_pid_k2_e4_1.py - [line:143] -  ------Round:1---------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:13 - DEBUG - core_tree_pid_k2_e4_1.py - [line:145] -  您好，很高兴为您服务
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:13 - DEBUG - core_tree_pid_k2_e4_1.py - [line:150] -  USER: 我要去旅行
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:89] -  ---------------------Round:2-----------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:93] -  ----To User:你对出租是否需要？------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:103] -  ----USER:不需要------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:89] -  ---------------------Round:3-----------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:93] -  ----To User:你对景点是否需要？------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:97] -  ----USER:需要------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:89] -  ---------------------Round:4-----------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:93] -  ----To User:你对酒店是否需要？------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:103] -  ----USER:不需要------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:89] -  ---------------------Round:5-----------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:93] -  ----To User:你对餐馆是否需要？------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:97] -  ----USER:需要------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:89] -  ---------------------Round:6-----------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:93] -  ----To User:你对地铁是否需要？------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:103] -  ----USER:不需要------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:352] -  layer_2:[0, 1, 0, 1, 0]
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:359] -  class_cluser:10
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:296] -  ----------Round:7----------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:299] -  To User: 对于餐馆的人均消费,您有什么选择50-100
+
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:303] -  USER: 我无所谓
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:296] -  ----------Round:8----------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:299] -  To User: 对于餐馆的评分,您有什么选择>4
+
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:303] -  USER: 我无所谓
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:296] -  ----------Round:9----------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:299] -  To User: 对于景点的评分,您有什么选择>4/=5
+
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:222] -  length rps:39
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/评分----筛选成功--
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:255] -  length rps:35
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:315] -  To User: 对于景点的评分,您有什么选择>4/=5
+
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:296] -  ----------Round:10----------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:299] -  To User: 对于景点的游玩时间,您有什么选择<=2/2<x<3/3<x<6
+
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:303] -  USER: 我无所谓
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:296] -  ----------Round:11----------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:299] -  To User: 对于景点的门票,您有什么选择<20/20-50/100-150/150-200/>200
+
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:222] -  length rps:35
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:255] -  length rps:6
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:315] -  To User: 对于景点的门票,您有什么选择<20/20-50/100-150/150-200/>200
+
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:296] -  ----------Round:12----------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:299] -  To User: 对于酒店的价格,您有什么选择低100-400/中400-700/高>1000
+
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - WARNING - base_content_and_service_kg.py - [line:215] -  -------该layer2意图本身不被接受------
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - WARNING - base_content_and_service_kg.py - [line:215] -  -------该layer2意图本身不被接受------
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:296] -  ----------Round:13----------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:299] -  To User: 对于酒店的评分,您有什么选择>4/=5
+
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - WARNING - base_content_and_service_kg.py - [line:215] -  -------该layer2意图本身不被接受------
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - WARNING - base_content_and_service_kg.py - [line:215] -  -------该layer2意图本身不被接受------
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:296] -  ----------Round:14----------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:299] -  To User: 对于酒店的酒店类型,您有什么选择豪华型/经济型/高档型/舒适型
+
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - WARNING - base_content_and_service_kg.py - [line:215] -  -------该layer2意图本身不被接受------
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - WARNING - base_content_and_service_kg.py - [line:215] -  -------该layer2意图本身不被接受------
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:325] -  ----------layer2--restricts询问结束----------
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:364] -  rps_list:6
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:404] -  ----------Round:15----------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:407] -  To User: 对于餐馆,您有什么子需求？
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:417] -  我还需要卤水豆腐
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:425] -  ----------Round:16----------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:428] -  To User: 请问对于旅行意图有什么其他的子需求吗,需求知识图谱为您推荐...-----
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:431] -  ----USER: 没了-----
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:434] -  --------layer3询问结束---------
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:436] -  记录路径选取合适的需求树...-----
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:440] -  ----------Round:17----------
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:443] -  To User: 根据上述对话搜索相应的需求树，请进行对应的修改-----
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - base_content_and_service_kg.py - [line:453] -  rps_list length:6
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - DEBUG - base_content_and_service_kg.py - [line:456] -  User: 我的修改意见是....
+
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - core_tree_pid_k2_e4_1.py - [line:177] -  5
+
+----------------------------------------
+> Wed, 11 Nov 202010:34:14 - INFO - core_tree_pid_k2_e4_1.py - [line:180] -  --------对话已结束------------
+

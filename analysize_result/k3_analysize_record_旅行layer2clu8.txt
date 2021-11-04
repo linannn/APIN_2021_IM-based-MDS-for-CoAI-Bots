@@ -1,0 +1,13 @@
+餐馆
+{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+58
+餐馆
+76
+餐馆
+78
+餐馆
+80
+餐馆
+{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+81
+餐馆

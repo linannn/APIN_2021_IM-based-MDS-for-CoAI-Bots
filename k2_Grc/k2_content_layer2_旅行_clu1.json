@@ -1,0 +1,96 @@
+[
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 51,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:49:47.000+0800",
+      "fresh": "2020-06-01T23:47:55.000+0800",
+      "support": 2,
+      "md5": "-1126264645"
+    },
+    "data": [
+      {
+        "id": 6858,
+        "goal": {
+          "goalId": 6858,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 51
+        },
+        "children": [
+          {
+            "id": 6861,
+            "goal": {
+              "goalId": 6861,
+              "content": "出租",
+              "parentId": 6858,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 6861,
+                  "key": "目的地",
+                  "valueType": "enum",
+                  "minValue": 0.0,
+                  "maxValue": 999.0,
+                  "unit": "",
+                  "value": "天安门广场"
+                },
+                {
+                  "goalId": 6861,
+                  "key": "出发地",
+                  "valueType": "enum",
+                  "minValue": 0.0,
+                  "maxValue": 999.0,
+                  "unit": "",
+                  "value": "北京鹏润国际大酒店"
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 51
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "goalNum": 2
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 53,
+      "frequency": 21,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:49:47.000+0800",
+      "fresh": "2020-06-01T23:47:39.000+0800",
+      "support": 21,
+      "md5": "26118633"
+    },
+    "data": [
+      {
+        "id": 6857,
+        "goal": {
+          "goalId": 6857,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 53
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  }
+]

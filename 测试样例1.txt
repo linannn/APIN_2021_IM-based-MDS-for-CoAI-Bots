@@ -1,0 +1,18 @@
+目标需求树
+{'id': 0, 'goal': {'goalId': 3231, 'content': '旅行', 'parentId': -1, 'requireId': 469, 'restricts': [], 'optTargets': [], 'hasMatched': False, 'rpId': -1},
+ 'children': [{'id': 3232, 'goal':
+ {'goalId': 3232, 'content': '酒店', 'parentId': 3231, 'requireId': 469, 'restricts': [{'goalId': 3232, 'key': '名称', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '北京万斯酒店'}], 'optTargets': [], 'hasMatched': False, 'rpId': -1},
+ 'children': []},
+ {'id': 3233, 'goal': {'goalId': 3233, 'content': '景点', 'parentId': 3231, 'requireId': 469, 'restricts': [{'goalId': 3233, 'key': '游玩时间', 'valueType': 'region', 'minValue': 2.0, 'maxValue': 3.0, 'unit': '小时', 'value': ''},
+ {'goalId': 3233, 'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''},
+  {'goalId': 3233, 'key': '门票', 'valueType': 'region', 'minValue': 0.0, 'maxValue': 0.0, 'unit': '元', 'value': ''}], 'optTargets': [], 'hasMatched': False, 'rpId': -1},
+  'children': []}],
+   'requireInfo': {'userId': 'test_require1', 'requireId': 469, 'timestamp': '2020-04-28T11:30:11.000+0800', 'state': 0, 'serviceSchemeUrl': None}, 'contexts': {}}
+
+base-tree
+{'id': 0, 'goal':
+{'goalId': 3086, 'content': '旅行', 'parentId': -1, 'requireId': 442, 'restricts': [], 'optTargets': [], 'hasMatched': False, 'rpId': -1},
+'children': [{'id': 3087, 'goal': {'goalId': 3087, 'content': '酒店', 'parentId': 3086, 'requireId': 442,
+'restricts': [{'goalId': 3087, 'key': '名称', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '北京望京华彩智选假日酒店'},
+ {'goalId': 3087, 'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}, {'goalId': 3087, 'key': '酒店类型', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '舒适型'}], 'optTargets': [], 'hasMatched': False, 'rpId': -1},
+'children': []}, {'id': 3088, 'goal': {'goalId': 3088, 'content': '餐馆', 'parentId': 3086, 'requireId': 442, 'restricts': [{'goalId': 3088, 'key': '人均消费', 'valueType': 'region', 'minValue': 150.0, 'maxValue': 500.0, 'unit': '元', 'value': ''}, {'goalId': 3088, 'key': '名称', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '胡大饭馆(簋街总店)'}], 'optTargets': [], 'hasMatched': False, 'rpId': -1}, 'children': []}, {'id': 3089, 'goal': {'goalId': 3089, 'content': '地铁', 'parentId': 3086, 'requireId': 442, 'restricts': [{'goalId': 3089, 'key': '出发地', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '北京望京华彩智选假日酒店'}, {'goalId': 3089, 'key': '目的地', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '胡大饭馆(簋街总店)'}], 'optTargets': [], 'hasMatched': False, 'rpId': -1}, 'children': []}, {'id': 3090, 'goal': {'goalId': 3090, 'content': '景点', 'parentId': 3086, 'requireId': 442, 'restricts': [{'goalId': 3090, 'key': '名称', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '卧龙公园'}, {'goalId': 3090, 'key': '评分', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '5分'}], 'optTargets': [], 'hasMatched': False, 'rpId': -1}, 'children': []}], 'requireInfo': {'userId': 'test_require1', 'requireId': 442, 'timestamp': '2020-04-28T11:30:10.000+0800', 'state': 0, 'serviceSchemeUrl': None}, 'contexts': {}}

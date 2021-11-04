@@ -1,0 +1,287 @@
+﻿----------------------------------------
+> Fri, 04 Sep 202014:10:31 - INFO - core_tree_pid_k2_e2_mod_1.py - [line:134] -  Start of program
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - INFO - core_tree_pid_k2_e2_mod_1.py - [line:138] -  test_id:
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - INFO - core_tree_pid_k2_e2_mod_1.py - [line:139] -  218
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - INFO - core_tree_pid_k2_e2_mod_1.py - [line:143] -  ------Round:1---------
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - core_tree_pid_k2_e2_mod_1.py - [line:145] -  您好，很高兴为您服务
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - core_tree_pid_k2_e2_mod_1.py - [line:150] -  USER: 我要去旅行
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - INFO - base_rp_db.py - [line:330] -  Model:{'id': 7575, 'goal': {'goalId': 7575, 'content': '旅行', 'parentId': -1, 'requireId': -1, 'restricts': [], 'optTargets': [], 'hasMatched': False, 'rpId': 292}, 'children': [{'id': 7578, 'goal': {'goalId': 7578, 'content': '景点', 'parentId': 7575, 'requireId': -1, 'restricts': [{'goalId': 7578, 'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}, {'goalId': 7578, 'key': '门票', 'valueType': 'region', 'minValue': 20.0, 'maxValue': 50.0, 'unit': '元', 'value': ''}, {'goalId': 7578, 'key': '游玩时间', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '1小时'}], 'optTargets': [], 'hasMatched': False, 'rpId': 292}, 'children': []}, {'id': 7584, 'goal': {'goalId': 7584, 'content': '酒店', 'parentId': 7575, 'requireId': -1, 'restricts': [{'goalId': 7584, 'key': '评分', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '5分'}, {'goalId': 7584, 'key': '价格', 'valueType': 'region', 'minValue': 300.0, 'maxValue': 400.0, 'unit': '元', 'value': ''}, {'goalId': 7584, 'key': '酒店类型', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '舒适型'}], 'optTargets': [], 'hasMatched': False, 'rpId': 292}, 'children': []}]}
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - INFO - base_rp_db.py - [line:462] -  rps_db length: 1
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - INFO - base_rp_db.py - [line:462] -  rps_db length: 1
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - INFO - base_rp_db.py - [line:871] -  ---模板树中对应旅行意图无约束----
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - INFO - base_rp_db.py - [line:874] -  ----正在需求模式库中查找所有对应旅行的模式或子模式约束...----
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:879] -  ----------Round:2----------
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - INFO - base_rp_db.py - [line:882] -  ----需求模式库中旅行的约束为空.----
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - INFO - base_rp_db.py - [line:885] -  content旅行
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - INFO - base_rp_db.py - [line:888] -  restricts:[]
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:891] -  To user:对于旅行部分是否满意?
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:987] -  USER: 我觉得应该有如下修改：
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - INFO - base_rp_db.py - [line:1007] -  --------Round End---------
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - INFO - base_rp_db.py - [line:462] -  rps_db length: 3
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - INFO - base_rp_db.py - [line:462] -  rps_db length: 2
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:662] -  ----------Round:3----------
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:665] -  请问您对于景点是否需要？
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:668] -  USER: 需要
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - INFO - base_rp_db.py - [line:941] -  ----------Round:4----------
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:944] -  在需求模式库中对景点进行查找...
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:947] -  对于景点的约束这样如何:
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:958] -  景点的游玩时间范围, 1到2小时
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:958] -  景点的评分范围, 4到9999分
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:958] -  景点的门票范围, 50到100元
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:984] -  To user:对于景点部分是否满意?
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:987] -  USER: 我觉得应该有如下修改：
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:998] -  景点的游玩时间范围, 0到1小时
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:1004] -  景点的评分：5分
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:998] -  景点的门票范围, 100到150元
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - INFO - base_rp_db.py - [line:1007] -  --------Round End---------
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:584] -  ----------Round:5----------
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:591] -  To User: ---------检测到当前景点下无子节点，请问对于该意图有什么其他的子需求吗-----
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:595] -  ----USER: 没了-----
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:662] -  ----------Round:6----------
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:665] -  请问您对于酒店是否需要？
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:668] -  USER: 需要
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - INFO - base_rp_db.py - [line:941] -  ----------Round:7----------
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:944] -  在需求模式库中对酒店进行查找...
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:947] -  对于酒店的约束这样如何:
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:958] -  酒店的价格范围, 300到400元
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:958] -  酒店的评分范围, 4到9999分
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:975] -  酒店的酒店类型：豪华型
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:984] -  To user:对于酒店部分是否满意?
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:987] -  USER: 我觉得应该有如下修改：
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:1004] -  酒店的酒店类型：高档型
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - INFO - base_rp_db.py - [line:1007] -  --------Round End---------
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:584] -  ----------Round:8----------
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:591] -  To User: ---------检测到当前酒店下无子节点，请问对于该意图有什么其他的子需求吗-----
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:595] -  ----USER: 没了-----
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:756] -  ----------Round:9----------
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:762] -  To User: 你对旅行还有什么新需求吗？
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:31 - DEBUG - base_rp_db.py - [line:767] -  USER: 我要加入餐馆
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:32 - INFO - base_rp_db.py - [line:941] -  ----------Round:10----------
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:32 - DEBUG - base_rp_db.py - [line:944] -  在需求模式库中对餐馆进行查找...
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:32 - DEBUG - base_rp_db.py - [line:947] -  对于餐馆的约束这样如何:
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:32 - DEBUG - base_rp_db.py - [line:958] -  餐馆的人均消费范围, 50到100元
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:32 - DEBUG - base_rp_db.py - [line:958] -  餐馆的评分范围, 4到9999分
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:32 - DEBUG - base_rp_db.py - [line:984] -  To user:对于餐馆部分是否满意?
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:32 - DEBUG - base_rp_db.py - [line:987] -  USER: 我觉得应该有如下修改：
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:32 - DEBUG - base_rp_db.py - [line:998] -  餐馆的人均消费范围, 50到100元
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:32 - DEBUG - base_rp_db.py - [line:998] -  餐馆的评分范围, 4到9999分
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:32 - INFO - base_rp_db.py - [line:1007] -  --------Round End---------
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:32 - DEBUG - base_rp_db.py - [line:584] -  ----------Round:11----------
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:32 - DEBUG - base_rp_db.py - [line:591] -  To User: ---------检测到当前餐馆下无子节点，请问对于该意图有什么其他的子需求吗-----
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:32 - DEBUG - base_rp_db.py - [line:595] -  ----USER: 没了-----
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:32 - DEBUG - base_rp_db.py - [line:781] -  ----------Round:12----------
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:32 - DEBUG - base_rp_db.py - [line:787] -  To User: 你对旅行还有什么新需求吗？
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:32 - DEBUG - base_rp_db.py - [line:790] -  USER: 没有了
+
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:32 - INFO - base_rp_db.py - [line:353] -  Generate Result:{'id': 0, 'goal': {'goalId': 4036, 'content': '旅行', 'parentId': -1, 'requireId': 629, 'restricts': [], 'optTargets': [], 'hasMatched': False, 'rpId': -1}, 'children': [{'id': 4037, 'goal': {'goalId': 4037, 'content': '酒店', 'parentId': 4036, 'requireId': 629, 'restricts': [{'goalId': 4037, 'key': '酒店类型', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '高档型'}], 'optTargets': [], 'hasMatched': False, 'rpId': -1}, 'children': []}, {'id': 4038, 'goal': {'goalId': 4038, 'content': '景点', 'parentId': 4036, 'requireId': 629, 'restricts': [{'goalId': 4038, 'key': '游玩时间', 'valueType': 'region', 'minValue': 0.0, 'maxValue': 1.0, 'unit': '小时', 'value': ''}, {'goalId': 4038, 'key': '评分', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '5分'}, {'goalId': 4038, 'key': '门票', 'valueType': 'region', 'minValue': 100.0, 'maxValue': 150.0, 'unit': '元', 'value': ''}], 'optTargets': [], 'hasMatched': False, 'rpId': -1}, 'children': []}, {'id': 4039, 'goal': {'goalId': 4039, 'content': '餐馆', 'parentId': 4036, 'requireId': 629, 'restricts': [{'goalId': 4039, 'key': '人均消费', 'valueType': 'region', 'minValue': 50.0, 'maxValue': 100.0, 'unit': '元', 'value': ''}, {'goalId': 4039, 'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}], 'optTargets': [], 'hasMatched': False, 'rpId': -1}, 'children': []}], 'requireInfo': {'userId': 'test_require1', 'requireId': 629, 'timestamp': '2020-04-28T11:30:17.000+0800', 'state': 0, 'serviceSchemeUrl': None}, 'contexts': {}}
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:32 - INFO - core_tree_pid_k2_e2_mod_1.py - [line:170] -  218
+
+----------------------------------------
+> Fri, 04 Sep 202014:10:32 - INFO - core_tree_pid_k2_e2_mod_1.py - [line:180] -  --------对话已结束------------
+

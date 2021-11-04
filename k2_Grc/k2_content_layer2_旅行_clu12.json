@@ -1,0 +1,2142 @@
+[
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 59,
+      "frequency": 17,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:49:47.000+0800",
+      "fresh": "2020-06-01T23:47:45.000+0800",
+      "support": 17,
+      "md5": "64992868"
+    },
+    "data": [
+      {
+        "id": 6877,
+        "goal": {
+          "goalId": 6877,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 59
+        },
+        "children": [
+          {
+            "id": 6878,
+            "goal": {
+              "goalId": 6878,
+              "content": "餐馆",
+              "parentId": 6877,
+              "requireId": -1,
+              "restricts": [],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 59
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "goalNum": 2
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 85,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:49:54.000+0800",
+      "fresh": "2020-06-01T23:47:53.000+0800",
+      "support": 2,
+      "md5": "-630250584"
+    },
+    "data": [
+      {
+        "id": 6972,
+        "goal": {
+          "goalId": 6972,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 85
+        },
+        "children": [
+          {
+            "id": 6973,
+            "goal": {
+              "goalId": 6973,
+              "content": "餐馆",
+              "parentId": 6972,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 6973,
+                  "key": "评分",
+                  "valueType": "region",
+                  "minValue": 4.0,
+                  "maxValue": 9999.0,
+                  "unit": "分",
+                  "value": ""
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 85
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "goalNum": 2
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 99,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:49:59.000+0800",
+      "fresh": "2020-06-01T23:47:48.000+0800",
+      "support": 2,
+      "md5": "-1042866002"
+    },
+    "data": [
+      {
+        "id": 7031,
+        "goal": {
+          "goalId": 7031,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 99
+        },
+        "children": [
+          {
+            "id": 7032,
+            "goal": {
+              "goalId": 7032,
+              "content": "餐馆",
+              "parentId": 7031,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 7032,
+                  "key": "评分",
+                  "valueType": "region",
+                  "minValue": 4.0,
+                  "maxValue": 9999.0,
+                  "unit": "分",
+                  "value": ""
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 99
+            },
+            "children": [
+              {
+                "id": 7033,
+                "goal": {
+                  "goalId": 7033,
+                  "content": "推荐菜-麻豆腐",
+                  "parentId": 7032,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 99
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 109,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:07.000+0800",
+      "fresh": "2020-06-01T23:47:54.000+0800",
+      "support": 2,
+      "md5": "-1384252697"
+    },
+    "data": [
+      {
+        "id": 7067,
+        "goal": {
+          "goalId": 7067,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 109
+        },
+        "children": [
+          {
+            "id": 7069,
+            "goal": {
+              "goalId": 7069,
+              "content": "餐馆",
+              "parentId": 7067,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 7069,
+                  "key": "人均消费",
+                  "valueType": "region",
+                  "minValue": 50.0,
+                  "maxValue": 100.0,
+                  "unit": "元",
+                  "value": ""
+                },
+                {
+                  "goalId": 7069,
+                  "key": "评分",
+                  "valueType": "region",
+                  "minValue": 4.0,
+                  "maxValue": 9999.0,
+                  "unit": "分",
+                  "value": ""
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 109
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "goalNum": 2
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 110,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:07.000+0800",
+      "fresh": "2020-06-01T23:47:42.000+0800",
+      "support": 2,
+      "md5": "997941662"
+    },
+    "data": [
+      {
+        "id": 7068,
+        "goal": {
+          "goalId": 7068,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 110
+        },
+        "children": [
+          {
+            "id": 7070,
+            "goal": {
+              "goalId": 7070,
+              "content": "餐馆",
+              "parentId": 7068,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 7070,
+                  "key": "人均消费",
+                  "valueType": "region",
+                  "minValue": 100.0,
+                  "maxValue": 150.0,
+                  "unit": "元",
+                  "value": ""
+                },
+                {
+                  "goalId": 7070,
+                  "key": "评分",
+                  "valueType": "region",
+                  "minValue": 4.0,
+                  "maxValue": 9999.0,
+                  "unit": "分",
+                  "value": ""
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 110
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "goalNum": 2
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 114,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:17.000+0800",
+      "fresh": "2020-06-01T23:47:55.000+0800",
+      "support": 2,
+      "md5": "-1087390410"
+    },
+    "data": [
+      {
+        "id": 7083,
+        "goal": {
+          "goalId": 7083,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 114
+        },
+        "children": [
+          {
+            "id": 7084,
+            "goal": {
+              "goalId": 7084,
+              "content": "出租",
+              "parentId": 7083,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 7084,
+                  "key": "目的地",
+                  "valueType": "enum",
+                  "minValue": 0.0,
+                  "maxValue": 999.0,
+                  "unit": "",
+                  "value": "天安门广场"
+                },
+                {
+                  "goalId": 7084,
+                  "key": "出发地",
+                  "valueType": "enum",
+                  "minValue": 0.0,
+                  "maxValue": 999.0,
+                  "unit": "",
+                  "value": "北京鹏润国际大酒店"
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 114
+            },
+            "children": []
+          },
+          {
+            "id": 7085,
+            "goal": {
+              "goalId": 7085,
+              "content": "餐馆",
+              "parentId": 7083,
+              "requireId": -1,
+              "restricts": [],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 114
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 152,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:48.000+0800",
+      "fresh": "2020-06-01T23:47:42.000+0800",
+      "support": 2,
+      "md5": "1439132562"
+    },
+    "data": [
+      {
+        "id": 7212,
+        "goal": {
+          "goalId": 7212,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 152
+        },
+        "children": [
+          {
+            "id": 7213,
+            "goal": {
+              "goalId": 7213,
+              "content": "餐馆",
+              "parentId": 7212,
+              "requireId": -1,
+              "restricts": [],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 152
+            },
+            "children": [
+              {
+                "id": 7214,
+                "goal": {
+                  "goalId": 7214,
+                  "content": "推荐菜-农家一锅鲜",
+                  "parentId": 7213,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 152
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 154,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:48.000+0800",
+      "fresh": "2020-06-01T23:47:50.000+0800",
+      "support": 2,
+      "md5": "-926293784"
+    },
+    "data": [
+      {
+        "id": 7217,
+        "goal": {
+          "goalId": 7217,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 154
+        },
+        "children": [
+          {
+            "id": 7218,
+            "goal": {
+              "goalId": 7218,
+              "content": "餐馆",
+              "parentId": 7217,
+              "requireId": -1,
+              "restricts": [],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 154
+            },
+            "children": [
+              {
+                "id": 7219,
+                "goal": {
+                  "goalId": 7219,
+                  "content": "推荐菜-叉烧包",
+                  "parentId": 7218,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 154
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 156,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:48.000+0800",
+      "fresh": "2020-06-01T23:47:55.000+0800",
+      "support": 2,
+      "md5": "-893542067"
+    },
+    "data": [
+      {
+        "id": 7222,
+        "goal": {
+          "goalId": 7222,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 156
+        },
+        "children": [
+          {
+            "id": 7223,
+            "goal": {
+              "goalId": 7223,
+              "content": "餐馆",
+              "parentId": 7222,
+              "requireId": -1,
+              "restricts": [],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 156
+            },
+            "children": [
+              {
+                "id": 7224,
+                "goal": {
+                  "goalId": 7224,
+                  "content": "推荐菜-回锅肉",
+                  "parentId": 7223,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 156
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 158,
+      "frequency": 3,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:48.000+0800",
+      "fresh": "2020-06-01T23:47:39.000+0800",
+      "support": 3,
+      "md5": "-851300165"
+    },
+    "data": [
+      {
+        "id": 7227,
+        "goal": {
+          "goalId": 7227,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 158
+        },
+        "children": [
+          {
+            "id": 7228,
+            "goal": {
+              "goalId": 7228,
+              "content": "餐馆",
+              "parentId": 7227,
+              "requireId": -1,
+              "restricts": [],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 158
+            },
+            "children": [
+              {
+                "id": 7229,
+                "goal": {
+                  "goalId": 7229,
+                  "content": "推荐菜-小龙虾",
+                  "parentId": 7228,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 158
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 160,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:48.000+0800",
+      "fresh": "2020-06-01T23:47:56.000+0800",
+      "support": 2,
+      "md5": "619201425"
+    },
+    "data": [
+      {
+        "id": 7232,
+        "goal": {
+          "goalId": 7232,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 160
+        },
+        "children": [
+          {
+            "id": 7233,
+            "goal": {
+              "goalId": 7233,
+              "content": "餐馆",
+              "parentId": 7232,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 7233,
+                  "key": "评分",
+                  "valueType": "region",
+                  "minValue": 4.0,
+                  "maxValue": 9999.0,
+                  "unit": "分",
+                  "value": ""
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 160
+            },
+            "children": [
+              {
+                "id": 7234,
+                "goal": {
+                  "goalId": 7234,
+                  "content": "推荐菜-尖椒肉丝",
+                  "parentId": 7233,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 160
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 162,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:48.000+0800",
+      "fresh": "2020-06-01T23:47:54.000+0800",
+      "support": 2,
+      "md5": "-818615749"
+    },
+    "data": [
+      {
+        "id": 7236,
+        "goal": {
+          "goalId": 7236,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 162
+        },
+        "children": [
+          {
+            "id": 7238,
+            "goal": {
+              "goalId": 7238,
+              "content": "餐馆",
+              "parentId": 7236,
+              "requireId": -1,
+              "restricts": [],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 162
+            },
+            "children": [
+              {
+                "id": 7239,
+                "goal": {
+                  "goalId": 7239,
+                  "content": "推荐菜-手抓饼",
+                  "parentId": 7238,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 162
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 164,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:48.000+0800",
+      "fresh": "2020-06-01T23:47:45.000+0800",
+      "support": 2,
+      "md5": "-1425294774"
+    },
+    "data": [
+      {
+        "id": 7241,
+        "goal": {
+          "goalId": 7241,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 164
+        },
+        "children": [
+          {
+            "id": 7242,
+            "goal": {
+              "goalId": 7242,
+              "content": "餐馆",
+              "parentId": 7241,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 7242,
+                  "key": "评分",
+                  "valueType": "region",
+                  "minValue": 4.0,
+                  "maxValue": 9999.0,
+                  "unit": "分",
+                  "value": ""
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 164
+            },
+            "children": [
+              {
+                "id": 7244,
+                "goal": {
+                  "goalId": 7244,
+                  "content": "推荐菜-泡菜汤",
+                  "parentId": 7242,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 164
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 167,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:49.000+0800",
+      "fresh": "2020-06-01T23:47:50.000+0800",
+      "support": 2,
+      "md5": "3023423146"
+    },
+    "data": [
+      {
+        "id": 7248,
+        "goal": {
+          "goalId": 7248,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 167
+        },
+        "children": [
+          {
+            "id": 7250,
+            "goal": {
+              "goalId": 7250,
+              "content": "餐馆",
+              "parentId": 7248,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 7250,
+                  "key": "人均消费",
+                  "valueType": "region",
+                  "minValue": 100.0,
+                  "maxValue": 150.0,
+                  "unit": "元",
+                  "value": ""
+                },
+                {
+                  "goalId": 7250,
+                  "key": "评分",
+                  "valueType": "region",
+                  "minValue": 4.0,
+                  "maxValue": 9999.0,
+                  "unit": "分",
+                  "value": ""
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 167
+            },
+            "children": [
+              {
+                "id": 7254,
+                "goal": {
+                  "goalId": 7254,
+                  "content": "推荐菜-炸花生米",
+                  "parentId": 7250,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 167
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 169,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:49.000+0800",
+      "fresh": "2020-06-01T23:47:44.000+0800",
+      "support": 2,
+      "md5": "-702873715"
+    },
+    "data": [
+      {
+        "id": 7255,
+        "goal": {
+          "goalId": 7255,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 169
+        },
+        "children": [
+          {
+            "id": 7256,
+            "goal": {
+              "goalId": 7256,
+              "content": "餐馆",
+              "parentId": 7255,
+              "requireId": -1,
+              "restricts": [],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 169
+            },
+            "children": [
+              {
+                "id": 7257,
+                "goal": {
+                  "goalId": 7257,
+                  "content": "推荐菜-烤生蚝",
+                  "parentId": 7256,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 169
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 171,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:49.000+0800",
+      "fresh": "2020-06-01T23:47:57.000+0800",
+      "support": 2,
+      "md5": "-2149432882"
+    },
+    "data": [
+      {
+        "id": 7260,
+        "goal": {
+          "goalId": 7260,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 171
+        },
+        "children": [
+          {
+            "id": 7261,
+            "goal": {
+              "goalId": 7261,
+              "content": "餐馆",
+              "parentId": 7260,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 7261,
+                  "key": "人均消费",
+                  "valueType": "region",
+                  "minValue": 50.0,
+                  "maxValue": 100.0,
+                  "unit": "元",
+                  "value": ""
+                },
+                {
+                  "goalId": 7261,
+                  "key": "评分",
+                  "valueType": "region",
+                  "minValue": 4.0,
+                  "maxValue": 9999.0,
+                  "unit": "分",
+                  "value": ""
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 171
+            },
+            "children": [
+              {
+                "id": 7262,
+                "goal": {
+                  "goalId": 7262,
+                  "content": "推荐菜-烤腰子",
+                  "parentId": 7261,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 171
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 173,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:49.000+0800",
+      "fresh": "2020-06-01T23:47:53.000+0800",
+      "support": 2,
+      "md5": "-2002939004"
+    },
+    "data": [
+      {
+        "id": 7265,
+        "goal": {
+          "goalId": 7265,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 173
+        },
+        "children": [
+          {
+            "id": 7266,
+            "goal": {
+              "goalId": 7266,
+              "content": "餐馆",
+              "parentId": 7265,
+              "requireId": -1,
+              "restricts": [],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 173
+            },
+            "children": [
+              {
+                "id": 7267,
+                "goal": {
+                  "goalId": 7267,
+                  "content": "推荐菜-烤青花鱼",
+                  "parentId": 7266,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 173
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 175,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:49.000+0800",
+      "fresh": "2020-06-01T23:47:36.000+0800",
+      "support": 2,
+      "md5": "456200361"
+    },
+    "data": [
+      {
+        "id": 7270,
+        "goal": {
+          "goalId": 7270,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 175
+        },
+        "children": [
+          {
+            "id": 7271,
+            "goal": {
+              "goalId": 7271,
+              "content": "餐馆",
+              "parentId": 7270,
+              "requireId": -1,
+              "restricts": [],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 175
+            },
+            "children": [
+              {
+                "id": 7272,
+                "goal": {
+                  "goalId": 7272,
+                  "content": "推荐菜-爆肚",
+                  "parentId": 7271,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 175
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 178,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:49.000+0800",
+      "fresh": "2020-06-01T23:47:40.000+0800",
+      "support": 2,
+      "md5": "-2068810748"
+    },
+    "data": [
+      {
+        "id": 7279,
+        "goal": {
+          "goalId": 7279,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 178
+        },
+        "children": [
+          {
+            "id": 7280,
+            "goal": {
+              "goalId": 7280,
+              "content": "餐馆",
+              "parentId": 7279,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 7280,
+                  "key": "人均消费",
+                  "valueType": "region",
+                  "minValue": 50.0,
+                  "maxValue": 100.0,
+                  "unit": "元",
+                  "value": ""
+                },
+                {
+                  "goalId": 7280,
+                  "key": "评分",
+                  "valueType": "region",
+                  "minValue": 4.0,
+                  "maxValue": 9999.0,
+                  "unit": "分",
+                  "value": ""
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 178
+            },
+            "children": [
+              {
+                "id": 7281,
+                "goal": {
+                  "goalId": 7281,
+                  "content": "推荐菜-糊塌子",
+                  "parentId": 7280,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 178
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 180,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:49.000+0800",
+      "fresh": "2020-06-01T23:47:57.000+0800",
+      "support": 2,
+      "md5": "136514212"
+    },
+    "data": [
+      {
+        "id": 7284,
+        "goal": {
+          "goalId": 7284,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 180
+        },
+        "children": [
+          {
+            "id": 7285,
+            "goal": {
+              "goalId": 7285,
+              "content": "餐馆",
+              "parentId": 7284,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 7285,
+                  "key": "人均消费",
+                  "valueType": "region",
+                  "minValue": 150.0,
+                  "maxValue": 500.0,
+                  "unit": "元",
+                  "value": ""
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 180
+            },
+            "children": [
+              {
+                "id": 7286,
+                "goal": {
+                  "goalId": 7286,
+                  "content": "推荐菜-素三鲜",
+                  "parentId": 7285,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 180
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 184,
+      "frequency": 3,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:49.000+0800",
+      "fresh": "2020-06-01T23:47:39.000+0800",
+      "support": 3,
+      "md5": "845089421"
+    },
+    "data": [
+      {
+        "id": 7292,
+        "goal": {
+          "goalId": 7292,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 184
+        },
+        "children": [
+          {
+            "id": 7294,
+            "goal": {
+              "goalId": 7294,
+              "content": "餐馆",
+              "parentId": 7292,
+              "requireId": -1,
+              "restricts": [],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 184
+            },
+            "children": [
+              {
+                "id": 7295,
+                "goal": {
+                  "goalId": 7295,
+                  "content": "推荐菜-花溪牛肉粉",
+                  "parentId": 7294,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 184
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 185,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:50.000+0800",
+      "fresh": "2020-06-01T23:47:47.000+0800",
+      "support": 2,
+      "md5": "-292926103"
+    },
+    "data": [
+      {
+        "id": 7299,
+        "goal": {
+          "goalId": 7299,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 185
+        },
+        "children": [
+          {
+            "id": 7300,
+            "goal": {
+              "goalId": 7300,
+              "content": "餐馆",
+              "parentId": 7299,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 7300,
+                  "key": "人均消费",
+                  "valueType": "region",
+                  "minValue": 50.0,
+                  "maxValue": 100.0,
+                  "unit": "元",
+                  "value": ""
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 185
+            },
+            "children": [
+              {
+                "id": 7302,
+                "goal": {
+                  "goalId": 7302,
+                  "content": "推荐菜-蛋挞",
+                  "parentId": 7300,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 185
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 188,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:50.000+0800",
+      "fresh": "2020-06-01T23:47:48.000+0800",
+      "support": 2,
+      "md5": "-233831960"
+    },
+    "data": [
+      {
+        "id": 7304,
+        "goal": {
+          "goalId": 7304,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 188
+        },
+        "children": [
+          {
+            "id": 7305,
+            "goal": {
+              "goalId": 7305,
+              "content": "餐馆",
+              "parentId": 7304,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 7305,
+                  "key": "评分",
+                  "valueType": "region",
+                  "minValue": 4.0,
+                  "maxValue": 9999.0,
+                  "unit": "分",
+                  "value": ""
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 188
+            },
+            "children": [
+              {
+                "id": 7307,
+                "goal": {
+                  "goalId": 7307,
+                  "content": "推荐菜-蟹棒",
+                  "parentId": 7305,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 188
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 191,
+      "frequency": 3,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:50.000+0800",
+      "fresh": "2020-06-01T23:47:39.000+0800",
+      "support": 3,
+      "md5": "80064520"
+    },
+    "data": [
+      {
+        "id": 7314,
+        "goal": {
+          "goalId": 7314,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 191
+        },
+        "children": [
+          {
+            "id": 7315,
+            "goal": {
+              "goalId": 7315,
+              "content": "餐馆",
+              "parentId": 7314,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 7315,
+                  "key": "评分",
+                  "valueType": "region",
+                  "minValue": 4.0,
+                  "maxValue": 9999.0,
+                  "unit": "分",
+                  "value": ""
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 191
+            },
+            "children": [
+              {
+                "id": 7316,
+                "goal": {
+                  "goalId": 7316,
+                  "content": "推荐菜-酸辣土豆丝",
+                  "parentId": 7315,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 191
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 193,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:50.000+0800",
+      "fresh": "2020-06-01T23:47:56.000+0800",
+      "support": 2,
+      "md5": "-1897219052"
+    },
+    "data": [
+      {
+        "id": 7318,
+        "goal": {
+          "goalId": 7318,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 193
+        },
+        "children": [
+          {
+            "id": 7319,
+            "goal": {
+              "goalId": 7319,
+              "content": "餐馆",
+              "parentId": 7318,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 7319,
+                  "key": "人均消费",
+                  "valueType": "region",
+                  "minValue": 50.0,
+                  "maxValue": 100.0,
+                  "unit": "元",
+                  "value": ""
+                },
+                {
+                  "goalId": 7319,
+                  "key": "评分",
+                  "valueType": "region",
+                  "minValue": 4.0,
+                  "maxValue": 9999.0,
+                  "unit": "分",
+                  "value": ""
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 193
+            },
+            "children": [
+              {
+                "id": 7321,
+                "goal": {
+                  "goalId": 7321,
+                  "content": "推荐菜-酸辣粉",
+                  "parentId": 7319,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 193
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 195,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:50.000+0800",
+      "fresh": "2020-06-01T23:47:55.000+0800",
+      "support": 2,
+      "md5": "-1310750596"
+    },
+    "data": [
+      {
+        "id": 7324,
+        "goal": {
+          "goalId": 7324,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 195
+        },
+        "children": [
+          {
+            "id": 7325,
+            "goal": {
+              "goalId": 7325,
+              "content": "餐馆",
+              "parentId": 7324,
+              "requireId": -1,
+              "restricts": [],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 195
+            },
+            "children": [
+              {
+                "id": 7326,
+                "goal": {
+                  "goalId": 7326,
+                  "content": "推荐菜-金枪鱼沙拉",
+                  "parentId": 7325,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 195
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 196,
+      "frequency": 3,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:50.000+0800",
+      "fresh": "2020-06-01T23:47:47.000+0800",
+      "support": 3,
+      "md5": "-239026209"
+    },
+    "data": [
+      {
+        "id": 7327,
+        "goal": {
+          "goalId": 7327,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 196
+        },
+        "children": [
+          {
+            "id": 7329,
+            "goal": {
+              "goalId": 7329,
+              "content": "餐馆",
+              "parentId": 7327,
+              "requireId": -1,
+              "restricts": [],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 196
+            },
+            "children": [
+              {
+                "id": 7331,
+                "goal": {
+                  "goalId": 7331,
+                  "content": "推荐菜-鲍鱼捞饭",
+                  "parentId": 7329,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 196
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 199,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:51.000+0800",
+      "fresh": "2020-06-01T23:47:37.000+0800",
+      "support": 2,
+      "md5": "63635595"
+    },
+    "data": [
+      {
+        "id": 7334,
+        "goal": {
+          "goalId": 7334,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 199
+        },
+        "children": [
+          {
+            "id": 7335,
+            "goal": {
+              "goalId": 7335,
+              "content": "餐馆",
+              "parentId": 7334,
+              "requireId": -1,
+              "restricts": [],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 199
+            },
+            "children": [
+              {
+                "id": 7336,
+                "goal": {
+                  "goalId": 7336,
+                  "content": "推荐菜-鸿运当头",
+                  "parentId": 7335,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 199
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 202,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:51.000+0800",
+      "fresh": "2020-06-01T23:47:34.000+0800",
+      "support": 2,
+      "md5": "-1043637902"
+    },
+    "data": [
+      {
+        "id": 7341,
+        "goal": {
+          "goalId": 7341,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 202
+        },
+        "children": [
+          {
+            "id": 7342,
+            "goal": {
+              "goalId": 7342,
+              "content": "餐馆",
+              "parentId": 7341,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 7342,
+                  "key": "评分",
+                  "valueType": "region",
+                  "minValue": 4.0,
+                  "maxValue": 9999.0,
+                  "unit": "分",
+                  "value": ""
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 202
+            },
+            "children": [
+              {
+                "id": 7343,
+                "goal": {
+                  "goalId": 7343,
+                  "content": "推荐菜-黑虎虾",
+                  "parentId": 7342,
+                  "requireId": -1,
+                  "restricts": [],
+                  "optTargets": [],
+                  "hasMatched": false,
+                  "rpId": 202
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 935,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T00:18:51.000+0800",
+      "fresh": "2020-06-01T23:47:37.000+0800",
+      "support": 2,
+      "md5": "3752741582"
+    },
+    "data": [
+      {
+        "id": 9505,
+        "goal": {
+          "goalId": 9505,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 935
+        },
+        "children": [
+          {
+            "id": 9506,
+            "goal": {
+              "goalId": 9506,
+              "content": "餐馆",
+              "parentId": 9505,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 9506,
+                  "key": "评分",
+                  "valueType": "enum",
+                  "minValue": 0.0,
+                  "maxValue": 999.0,
+                  "unit": "",
+                  "value": "5分"
+                },
+                {
+                  "goalId": 9506,
+                  "key": "人均消费",
+                  "valueType": "region",
+                  "minValue": 100.0,
+                  "maxValue": 150.0,
+                  "unit": "元",
+                  "value": ""
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 935
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "goalNum": 2
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 973,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T00:18:52.000+0800",
+      "fresh": "2020-06-01T23:47:48.000+0800",
+      "support": 2,
+      "md5": "820516588"
+    },
+    "data": [
+      {
+        "id": 9663,
+        "goal": {
+          "goalId": 9663,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 973
+        },
+        "children": [
+          {
+            "id": 9665,
+            "goal": {
+              "goalId": 9665,
+              "content": "餐馆",
+              "parentId": 9663,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 9665,
+                  "key": "人均消费",
+                  "valueType": "region",
+                  "minValue": 150.0,
+                  "maxValue": 500.0,
+                  "unit": "元",
+                  "value": ""
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 973
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "goalNum": 2
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 982,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T00:18:52.000+0800",
+      "fresh": "2020-06-01T23:47:46.000+0800",
+      "support": 2,
+      "md5": "-689009245"
+    },
+    "data": [
+      {
+        "id": 9701,
+        "goal": {
+          "goalId": 9701,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 982
+        },
+        "children": [
+          {
+            "id": 9702,
+            "goal": {
+              "goalId": 9702,
+              "content": "餐馆",
+              "parentId": 9701,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 9702,
+                  "key": "人均消费",
+                  "valueType": "region",
+                  "minValue": 50.0,
+                  "maxValue": 100.0,
+                  "unit": "元",
+                  "value": ""
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 982
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "goalNum": 2
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 988,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T00:18:52.000+0800",
+      "fresh": "2020-06-01T23:47:45.000+0800",
+      "support": 2,
+      "md5": "1370547223"
+    },
+    "data": [
+      {
+        "id": 9725,
+        "goal": {
+          "goalId": 9725,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 988
+        },
+        "children": [
+          {
+            "id": 9726,
+            "goal": {
+              "goalId": 9726,
+              "content": "餐馆",
+              "parentId": 9725,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 9726,
+                  "key": "人均消费",
+                  "valueType": "region",
+                  "minValue": 50.0,
+                  "maxValue": 100.0,
+                  "unit": "元",
+                  "value": ""
+                },
+                {
+                  "goalId": 9726,
+                  "key": "评分",
+                  "valueType": "enum",
+                  "minValue": 0.0,
+                  "maxValue": 999.0,
+                  "unit": "",
+                  "value": "5分"
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 988
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "goalNum": 2
+  }
+]

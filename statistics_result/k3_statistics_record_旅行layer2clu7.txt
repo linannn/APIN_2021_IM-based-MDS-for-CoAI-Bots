@@ -1,0 +1,167 @@
+酒店
+0	{'key': '价格', 'valueType': 'region', 'minValue': 1000.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+1	{'key': '价格', 'valueType': 'region', 'minValue': 300.0, 'maxValue': 400.0, 'unit': '元', 'value': ''}
+2	{'key': '价格', 'valueType': 'region', 'minValue': 100.0, 'maxValue': 200.0, 'unit': '元', 'value': ''}
+3	{'key': '价格', 'valueType': 'region', 'minValue': 200.0, 'maxValue': 300.0, 'unit': '元', 'value': ''}
+4	{'key': '价格', 'valueType': 'region', 'minValue': 400.0, 'maxValue': 500.0, 'unit': '元', 'value': ''}
+5	{'key': '价格', 'valueType': 'region', 'minValue': 500.0, 'maxValue': 600.0, 'unit': '元', 'value': ''}
+6	{'key': '价格', 'valueType': 'region', 'minValue': 600.0, 'maxValue': 700.0, 'unit': '元', 'value': ''}
+7	{'key': '评分', 'valueType': 'enum', 'minValue': 5, 'maxValue': 5, 'unit': '分', 'value': '5分'}
+8	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+9	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '经济型', 'value': '经济型'}
+10	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '高档型', 'value': '高档型'}
+11	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '舒适型', 'value': '舒适型'}
+餐馆
+0	{'key': '人均消费', 'valueType': 'region', 'minValue': 50.0, 'maxValue': 100.0, 'unit': '元', 'value': ''}
+1	{'key': '人均消费', 'valueType': 'region', 'minValue': 100.0, 'maxValue': 150.0, 'unit': '元', 'value': ''}
+2	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+ID	57
+酒店
+餐馆
+ID	60
+酒店
+餐馆
+ID	63
+酒店
+餐馆
+0	{'key': '人均消费', 'valueType': 'region', 'minValue': 50.0, 'maxValue': 100.0, 'unit': '元', 'value': ''}
+ID	65
+酒店
+餐馆
+ID	67
+酒店
+餐馆
+ID	70
+酒店
+餐馆
+2	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+ID	73
+酒店
+餐馆
+ID	74
+酒店
+餐馆
+0	{'key': '人均消费', 'valueType': 'region', 'minValue': 50.0, 'maxValue': 100.0, 'unit': '元', 'value': ''}
+ID	312
+酒店
+餐馆
+ID	314
+酒店
+餐馆
+2	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+ID	325
+酒店
+餐馆
+ID	331
+酒店
+餐馆
+ID	566
+酒店
+餐馆
+ID	568
+酒店
+餐馆
+ID	569
+酒店
+餐馆
+ID	571
+酒店
+餐馆
+ID	573
+酒店
+餐馆
+ID	575
+酒店
+餐馆
+ID	577
+酒店
+餐馆
+ID	578
+酒店
+餐馆
+ID	580
+酒店
+餐馆
+2	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+ID	582
+酒店
+餐馆
+ID	584
+酒店
+餐馆
+ID	587
+酒店
+餐馆
+ID	592
+酒店
+7	{'key': '评分', 'valueType': 'enum', 'minValue': 5, 'maxValue': 5, 'unit': '分', 'value': '5分'}
+9	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '经济型', 'value': '经济型'}
+餐馆
+2	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+ID	593
+酒店
+7	{'key': '评分', 'valueType': 'enum', 'minValue': 5, 'maxValue': 5, 'unit': '分', 'value': '5分'}
+9	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '经济型', 'value': '经济型'}
+餐馆
+1	{'key': '人均消费', 'valueType': 'region', 'minValue': 100.0, 'maxValue': 150.0, 'unit': '元', 'value': ''}
+2	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+ID	594
+酒店
+8	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+9	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '经济型', 'value': '经济型'}
+0	{'key': '价格', 'valueType': 'region', 'minValue': 1000.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+餐馆
+ID	595
+酒店
+1	{'key': '价格', 'valueType': 'region', 'minValue': 300.0, 'maxValue': 400.0, 'unit': '元', 'value': ''}
+8	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+9	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '经济型', 'value': '经济型'}
+餐馆
+ID	596
+酒店
+2	{'key': '价格', 'valueType': 'region', 'minValue': 100.0, 'maxValue': 200.0, 'unit': '元', 'value': ''}
+10	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '高档型', 'value': '高档型'}
+8	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+餐馆
+ID	597
+酒店
+3	{'key': '价格', 'valueType': 'region', 'minValue': 200.0, 'maxValue': 300.0, 'unit': '元', 'value': ''}
+8	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+11	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '舒适型', 'value': '舒适型'}
+餐馆
+ID	598
+酒店
+4	{'key': '价格', 'valueType': 'region', 'minValue': 400.0, 'maxValue': 500.0, 'unit': '元', 'value': ''}
+8	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+9	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '经济型', 'value': '经济型'}
+餐馆
+ID	599
+酒店
+8	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+5	{'key': '价格', 'valueType': 'region', 'minValue': 500.0, 'maxValue': 600.0, 'unit': '元', 'value': ''}
+9	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '经济型', 'value': '经济型'}
+餐馆
+ID	600
+酒店
+2	{'key': '价格', 'valueType': 'region', 'minValue': 100.0, 'maxValue': 200.0, 'unit': '元', 'value': ''}
+8	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+9	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '经济型', 'value': '经济型'}
+餐馆
+ID	601
+酒店
+6	{'key': '价格', 'valueType': 'region', 'minValue': 600.0, 'maxValue': 700.0, 'unit': '元', 'value': ''}
+8	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+9	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '经济型', 'value': '经济型'}
+餐馆
+ID	602
+酒店
+4	{'key': '价格', 'valueType': 'region', 'minValue': 400.0, 'maxValue': 500.0, 'unit': '元', 'value': ''}
+7	{'key': '评分', 'valueType': 'enum', 'minValue': 5, 'maxValue': 5, 'unit': '分', 'value': '5分'}
+11	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '舒适型', 'value': '舒适型'}
+餐馆
+ID	603
+酒店
+3	{'key': '价格', 'valueType': 'region', 'minValue': 200.0, 'maxValue': 300.0, 'unit': '元', 'value': ''}
+7	{'key': '评分', 'valueType': 'enum', 'minValue': 5, 'maxValue': 5, 'unit': '分', 'value': '5分'}
+9	{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '经济型', 'value': '经济型'}
+餐馆

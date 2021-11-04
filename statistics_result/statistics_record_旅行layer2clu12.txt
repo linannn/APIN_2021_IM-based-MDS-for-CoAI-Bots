@@ -1,0 +1,105 @@
+餐馆
+0	{'key': '人均消费', 'valueType': 'region', 'minValue': 50.0, 'maxValue': 100.0, 'unit': '元', 'value': ''}
+1	{'key': '人均消费', 'valueType': 'region', 'minValue': 100.0, 'maxValue': 150.0, 'unit': '元', 'value': ''}
+2	{'key': '人均消费', 'valueType': 'region', 'minValue': 150.0, 'maxValue': 500.0, 'unit': '元', 'value': ''}
+3	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+4	{'key': '评分', 'valueType': 'enum', 'minValue': 5, 'maxValue': 5, 'unit': '分', 'value': '5分'}
+出租
+0	{'key': '出发地', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '北京鹏润国际大酒店', 'value': '北京鹏润国际大酒店'}
+1	{'key': '目的地', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '天安门广场', 'value': '天安门广场'}
+ID	59
+餐馆
+ID	85
+餐馆
+3	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+ID	99
+餐馆
+3	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+ID	109
+餐馆
+0	{'key': '人均消费', 'valueType': 'region', 'minValue': 50.0, 'maxValue': 100.0, 'unit': '元', 'value': ''}
+3	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+ID	110
+餐馆
+1	{'key': '人均消费', 'valueType': 'region', 'minValue': 100.0, 'maxValue': 150.0, 'unit': '元', 'value': ''}
+3	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+ID	114
+出租
+1	{'key': '目的地', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '天安门广场', 'value': '天安门广场'}
+0	{'key': '出发地', 'valueType': 'enum', 'minValue': 0, 'maxValue': 9999, 'unit': '北京鹏润国际大酒店', 'value': '北京鹏润国际大酒店'}
+餐馆
+ID	152
+餐馆
+ID	154
+餐馆
+ID	156
+餐馆
+ID	158
+餐馆
+ID	160
+餐馆
+3	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+ID	162
+餐馆
+ID	164
+餐馆
+3	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+ID	167
+餐馆
+1	{'key': '人均消费', 'valueType': 'region', 'minValue': 100.0, 'maxValue': 150.0, 'unit': '元', 'value': ''}
+3	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+ID	169
+餐馆
+ID	171
+餐馆
+0	{'key': '人均消费', 'valueType': 'region', 'minValue': 50.0, 'maxValue': 100.0, 'unit': '元', 'value': ''}
+3	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+ID	173
+餐馆
+ID	175
+餐馆
+ID	178
+餐馆
+0	{'key': '人均消费', 'valueType': 'region', 'minValue': 50.0, 'maxValue': 100.0, 'unit': '元', 'value': ''}
+3	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+ID	180
+餐馆
+2	{'key': '人均消费', 'valueType': 'region', 'minValue': 150.0, 'maxValue': 500.0, 'unit': '元', 'value': ''}
+ID	184
+餐馆
+ID	185
+餐馆
+0	{'key': '人均消费', 'valueType': 'region', 'minValue': 50.0, 'maxValue': 100.0, 'unit': '元', 'value': ''}
+ID	188
+餐馆
+3	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+ID	191
+餐馆
+3	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+ID	193
+餐馆
+0	{'key': '人均消费', 'valueType': 'region', 'minValue': 50.0, 'maxValue': 100.0, 'unit': '元', 'value': ''}
+3	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+ID	195
+餐馆
+ID	196
+餐馆
+ID	199
+餐馆
+ID	202
+餐馆
+3	{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+ID	935
+餐馆
+4	{'key': '评分', 'valueType': 'enum', 'minValue': 5, 'maxValue': 5, 'unit': '分', 'value': '5分'}
+1	{'key': '人均消费', 'valueType': 'region', 'minValue': 100.0, 'maxValue': 150.0, 'unit': '元', 'value': ''}
+ID	973
+餐馆
+2	{'key': '人均消费', 'valueType': 'region', 'minValue': 150.0, 'maxValue': 500.0, 'unit': '元', 'value': ''}
+ID	982
+餐馆
+0	{'key': '人均消费', 'valueType': 'region', 'minValue': 50.0, 'maxValue': 100.0, 'unit': '元', 'value': ''}
+ID	988
+餐馆
+0	{'key': '人均消费', 'valueType': 'region', 'minValue': 50.0, 'maxValue': 100.0, 'unit': '元', 'value': ''}
+4	{'key': '评分', 'valueType': 'enum', 'minValue': 5, 'maxValue': 5, 'unit': '分', 'value': '5分'}

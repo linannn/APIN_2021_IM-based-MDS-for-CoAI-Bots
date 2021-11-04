@@ -1,0 +1,66 @@
+[
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 115,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:19.000+0800",
+      "fresh": "2020-06-01T23:47:47.000+0800",
+      "support": 2,
+      "md5": "6065768"
+    },
+    "data": [
+      {
+        "id": 7086,
+        "goal": {
+          "goalId": 7086,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 115
+        },
+        "children": [
+          {
+            "id": 7087,
+            "goal": {
+              "goalId": 7087,
+              "content": "地铁",
+              "parentId": 7086,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 7087,
+                  "key": "目的地",
+                  "valueType": "enum",
+                  "minValue": 0.0,
+                  "maxValue": 999.0,
+                  "unit": "",
+                  "value": "北京香江戴斯酒店"
+                },
+                {
+                  "goalId": 7087,
+                  "key": "出发地",
+                  "valueType": "enum",
+                  "minValue": 0.0,
+                  "maxValue": 999.0,
+                  "unit": "",
+                  "value": "天安门广场"
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 115
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "goalNum": 2
+  }
+]

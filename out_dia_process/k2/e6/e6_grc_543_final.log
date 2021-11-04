@@ -1,0 +1,861 @@
+﻿----------------------------------------
+> Fri, 18 Dec 202016:57:59 - INFO - core_tree_pid_k2_e6_1.py - [line:135] -  Start of program
+
+----------------------------------------
+> Fri, 18 Dec 202016:57:59 - INFO - core_tree_pid_k2_e6_1.py - [line:139] -  test_id:
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:57:59 - INFO - core_tree_pid_k2_e6_1.py - [line:140] -  543
+
+----------------------------------------
+> Fri, 18 Dec 202016:57:59 - INFO - core_tree_pid_k2_e6_1.py - [line:144] -  ------Round:1---------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:57:59 - DEBUG - core_tree_pid_k2_e6_1.py - [line:146] -  您好，很高兴为您服务
+
+----------------------------------------
+> Fri, 18 Dec 202016:57:59 - DEBUG - core_tree_pid_k2_e6_1.py - [line:151] -  USER: 我要去旅行
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:02 - INFO - top_grc_process.py - [line:58] -  ---------------------Round:2-----------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:02 - DEBUG - top_grc_process.py - [line:62] -  ----To User:你对整个旅行的花费要求是多少？高档>20000; 中档1-2w; 低档<1w------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:02 - DEBUG - top_grc_process.py - [line:68] -  ----USER:800.0到950.0之间吧------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:02 - INFO - top_grc_process.py - [line:73] -  ---------------------Round:3-----------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:02 - INFO - top_grc_process.py - [line:77] -  ----To User:你对整个旅行的档次要求是多少？高5-5 中4.5-5 低4.0-4.5------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:02 - DEBUG - top_grc_process.py - [line:80] -  ----USER:4.0吧------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:02 - INFO - top_grc_process.py - [line:87] -  ---------------------Round:4-----------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:02 - INFO - top_grc_process.py - [line:91] -  ----To User:你对整个旅行景点游玩时长的要求？高6 中2-4 低<2------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:02 - DEBUG - top_grc_process.py - [line:94] -  ----USER:1.0到2.0之间吧------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:02 - INFO - base_content_and_service_kg.py - [line:89] -  ---------------------Round:5-----------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:02 - DEBUG - base_content_and_service_kg.py - [line:93] -  ----To User:你对景点是否需要？------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:02 - DEBUG - base_content_and_service_kg.py - [line:97] -  ----USER:需要------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:02 - INFO - base_content_and_service_kg.py - [line:89] -  ---------------------Round:6-----------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:02 - DEBUG - base_content_and_service_kg.py - [line:93] -  ----To User:你对酒店是否需要？------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:02 - DEBUG - base_content_and_service_kg.py - [line:97] -  ----USER:需要------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:02 - INFO - base_content_and_service_kg.py - [line:89] -  ---------------------Round:7-----------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:02 - DEBUG - base_content_and_service_kg.py - [line:93] -  ----To User:你对餐馆是否需要？------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:02 - DEBUG - base_content_and_service_kg.py - [line:97] -  ----USER:需要------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - top_grc_process.py - [line:134] -  class_cluser:7
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:296] -  ----------Round:8----------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - DEBUG - base_content_and_service_kg.py - [line:299] -  To User: 对于景点的评分,您有什么选择>4/=5
+
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - DEBUG - base_content_and_service_kg.py - [line:303] -  USER: 我无所谓
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:296] -  ----------Round:9----------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - DEBUG - base_content_and_service_kg.py - [line:299] -  To User: 对于景点的游玩时间,您有什么选择<=2/2<x<3/3<x<6
+
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:222] -  length rps:738
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:03 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - base_content_and_service_kg.py - [line:242] -  ---------filter景点/游玩时间----筛选成功--
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - base_content_and_service_kg.py - [line:255] -  length rps:209
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - DEBUG - base_content_and_service_kg.py - [line:315] -  To User: 对于景点的游玩时间,您有什么选择<=2/2<x<3/3<x<6
+
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - base_content_and_service_kg.py - [line:296] -  ----------Round:10----------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - DEBUG - base_content_and_service_kg.py - [line:299] -  To User: 对于景点的门票,您有什么选择<20/20-50/100-150/150-200/>200
+
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - base_content_and_service_kg.py - [line:222] -  length rps:209
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - base_content_and_service_kg.py - [line:255] -  length rps:49
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - DEBUG - base_content_and_service_kg.py - [line:315] -  To User: 对于景点的门票,您有什么选择<20/20-50/100-150/150-200/>200
+
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - base_content_and_service_kg.py - [line:296] -  ----------Round:11----------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - DEBUG - base_content_and_service_kg.py - [line:299] -  To User: 对于酒店的价格,您有什么选择低100-400/中400-700/高>1000
+
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - base_content_and_service_kg.py - [line:222] -  length rps:49
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - base_content_and_service_kg.py - [line:255] -  length rps:26
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - DEBUG - base_content_and_service_kg.py - [line:315] -  To User: 对于酒店的价格,您有什么选择低100-400/中400-700/高>1000
+
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - base_content_and_service_kg.py - [line:296] -  ----------Round:12----------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - DEBUG - base_content_and_service_kg.py - [line:299] -  To User: 对于酒店的评分,您有什么选择>4/=5
+
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - DEBUG - base_content_and_service_kg.py - [line:303] -  USER: 我无所谓
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - base_content_and_service_kg.py - [line:296] -  ----------Round:13----------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - DEBUG - base_content_and_service_kg.py - [line:299] -  To User: 对于酒店的酒店类型,您有什么选择豪华型/经济型/高档型/舒适型
+
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - DEBUG - base_content_and_service_kg.py - [line:303] -  USER: 我无所谓
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - base_content_and_service_kg.py - [line:325] -  ----------layer2--restricts询问结束----------
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - top_grc_process.py - [line:138] -  记录路径选取合适的需求树...-----
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - top_grc_process.py - [line:142] -  ---------------------Round:8-----------
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - top_grc_process.py - [line:143] -  输出对应路径符合要求的rp...XXXXXXXXXXXXXXX-----
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - DEBUG - top_grc_process.py - [line:146] -  To User: 请根据上述对话搜索相应的需求树，请进行对应的修改-----
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - DEBUG - top_grc_process.py - [line:149] -  ----USER: 我对的微调是XXXXXXX-----
+
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - top_grc_process.py - [line:150] -  将用户意图与所示意图树的区别作为答案反馈给系统...----
+
+----------------------------------------
+> Fri, 18 Dec 202016:58:04 - INFO - core_tree_pid_k2_e6_1.py - [line:183] -  --------对话已结束------------
+

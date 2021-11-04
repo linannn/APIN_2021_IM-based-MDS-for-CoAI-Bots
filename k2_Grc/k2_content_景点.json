@@ -1,0 +1,2120 @@
+[
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1830,
+      "frequency": 602,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:35.000+0800",
+      "fresh": "2020-06-01T23:47:44.000+0800",
+      "support": 602,
+      "md5": "26094918"
+    },
+    "data": [
+      {
+        "id": 12927,
+        "goal": {
+          "goalId": 12927,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1830
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1831,
+      "frequency": 2,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:35.000+0800",
+      "fresh": "2020-06-01T23:47:55.000+0800",
+      "support": 2,
+      "md5": "-4539296610"
+    },
+    "data": [
+      {
+        "id": 12925,
+        "goal": {
+          "goalId": 12925,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12925,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 2.0,
+              "maxValue": 3.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12925,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12925,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 150.0,
+              "maxValue": 200.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1831
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1832,
+      "frequency": 5,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:35.000+0800",
+      "fresh": "2020-06-01T23:47:36.000+0800",
+      "support": 5,
+      "md5": "-1234327132"
+    },
+    "data": [
+      {
+        "id": 12926,
+        "goal": {
+          "goalId": 12926,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12926,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12926,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 20.0,
+              "maxValue": 50.0,
+              "unit": "元",
+              "value": ""
+            },
+            {
+              "goalId": 12926,
+              "key": "游玩时间",
+              "valueType": "enum",
+              "minValue": 0.0,
+              "maxValue": 999.0,
+              "unit": "",
+              "value": "1小时"
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1832
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1833,
+      "frequency": 5,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:35.000+0800",
+      "fresh": "2020-06-01T23:47:41.000+0800",
+      "support": 5,
+      "md5": "1140656861"
+    },
+    "data": [
+      {
+        "id": 12928,
+        "goal": {
+          "goalId": 12928,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12928,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 1.0,
+              "maxValue": 2.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12928,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 0.0,
+              "maxValue": 20.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12928,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1833
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1834,
+      "frequency": 5,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:35.000+0800",
+      "fresh": "2020-06-01T23:47:44.000+0800",
+      "support": 5,
+      "md5": "-1988063170"
+    },
+    "data": [
+      {
+        "id": 12929,
+        "goal": {
+          "goalId": 12929,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12929,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 1.0,
+              "maxValue": 2.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12929,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12929,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 150.0,
+              "maxValue": 200.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1834
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1835,
+      "frequency": 4,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:35.000+0800",
+      "fresh": "2020-06-01T23:47:52.000+0800",
+      "support": 4,
+      "md5": "-1236651141"
+    },
+    "data": [
+      {
+        "id": 12930,
+        "goal": {
+          "goalId": 12930,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12930,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12930,
+              "key": "游玩时间",
+              "valueType": "enum",
+              "minValue": 0.0,
+              "maxValue": 999.0,
+              "unit": "",
+              "value": "1小时"
+            },
+            {
+              "goalId": 12930,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 150.0,
+              "maxValue": 200.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1835
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1836,
+      "frequency": 2,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:35.000+0800",
+      "fresh": "2020-06-01T23:47:54.000+0800",
+      "support": 2,
+      "md5": "-1782172681"
+    },
+    "data": [
+      {
+        "id": 12932,
+        "goal": {
+          "goalId": 12932,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12932,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 2.0,
+              "maxValue": 3.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12932,
+              "key": "评分",
+              "valueType": "enum",
+              "minValue": 0.0,
+              "maxValue": 999.0,
+              "unit": "",
+              "value": "5分"
+            },
+            {
+              "goalId": 12932,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 20.0,
+              "maxValue": 50.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1836
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1837,
+      "frequency": 2,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:35.000+0800",
+      "fresh": "2020-06-01T23:47:39.000+0800",
+      "support": 2,
+      "md5": "-2795562754"
+    },
+    "data": [
+      {
+        "id": 12931,
+        "goal": {
+          "goalId": 12931,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12931,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 3.0,
+              "maxValue": 4.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12931,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12931,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 150.0,
+              "maxValue": 200.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1837
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1838,
+      "frequency": 3,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:35.000+0800",
+      "fresh": "2020-06-01T23:47:47.000+0800",
+      "support": 3,
+      "md5": "-2793238745"
+    },
+    "data": [
+      {
+        "id": 12933,
+        "goal": {
+          "goalId": 12933,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12933,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 3.0,
+              "maxValue": 4.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12933,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12933,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 20.0,
+              "maxValue": 50.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1838
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1839,
+      "frequency": 6,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:35.000+0800",
+      "fresh": "2020-06-01T23:47:52.000+0800",
+      "support": 6,
+      "md5": "177868505"
+    },
+    "data": [
+      {
+        "id": 12934,
+        "goal": {
+          "goalId": 12934,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12934,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 1.0,
+              "maxValue": 2.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12934,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12934,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 200.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1839
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1840,
+      "frequency": 4,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:35.000+0800",
+      "fresh": "2020-06-01T23:47:51.000+0800",
+      "support": 4,
+      "md5": "-1029507191"
+    },
+    "data": [
+      {
+        "id": 12935,
+        "goal": {
+          "goalId": 12935,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12935,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 1.0,
+              "maxValue": 2.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12935,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12935,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 100.0,
+              "maxValue": 150.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1840
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1841,
+      "frequency": 3,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:35.000+0800",
+      "fresh": "2020-06-01T23:47:44.000+0800",
+      "support": 3,
+      "md5": "766736750"
+    },
+    "data": [
+      {
+        "id": 12936,
+        "goal": {
+          "goalId": 12936,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12936,
+              "key": "评分",
+              "valueType": "enum",
+              "minValue": 0.0,
+              "maxValue": 999.0,
+              "unit": "",
+              "value": "5分"
+            },
+            {
+              "goalId": 12936,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 1.0,
+              "maxValue": 2.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12936,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 150.0,
+              "maxValue": 200.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1841
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1842,
+      "frequency": 3,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:35.000+0800",
+      "fresh": "2020-06-01T23:47:42.000+0800",
+      "support": 3,
+      "md5": "-3579817110"
+    },
+    "data": [
+      {
+        "id": 12937,
+        "goal": {
+          "goalId": 12937,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12937,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 2.0,
+              "maxValue": 4.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12937,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12937,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 100.0,
+              "maxValue": 150.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1842
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1843,
+      "frequency": 2,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:35.000+0800",
+      "fresh": "2020-06-01T23:47:41.000+0800",
+      "support": 2,
+      "md5": "-4538373089"
+    },
+    "data": [
+      {
+        "id": 12938,
+        "goal": {
+          "goalId": 12938,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12938,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 2.0,
+              "maxValue": 4.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12938,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12938,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 150.0,
+              "maxValue": 200.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1843
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1844,
+      "frequency": 6,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:35.000+0800",
+      "fresh": "2020-06-01T23:47:46.000+0800",
+      "support": 6,
+      "md5": "-1418116234"
+    },
+    "data": [
+      {
+        "id": 12939,
+        "goal": {
+          "goalId": 12939,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12939,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 2.0,
+              "maxValue": 3.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12939,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12939,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 50.0,
+              "maxValue": 100.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1844
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1845,
+      "frequency": 7,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:35.000+0800",
+      "fresh": "2020-06-01T23:47:44.000+0800",
+      "support": 7,
+      "md5": "1133117206"
+    },
+    "data": [
+      {
+        "id": 12940,
+        "goal": {
+          "goalId": 12940,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12940,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 1.0,
+              "maxValue": 2.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12940,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12940,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 50.0,
+              "maxValue": 100.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1845
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1846,
+      "frequency": 2,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:35.000+0800",
+      "fresh": "2020-06-01T23:47:40.000+0800",
+      "support": 2,
+      "md5": "1725292729"
+    },
+    "data": [
+      {
+        "id": 12941,
+        "goal": {
+          "goalId": 12941,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12941,
+              "key": "评分",
+              "valueType": "enum",
+              "minValue": 0.0,
+              "maxValue": 999.0,
+              "unit": "",
+              "value": "5分"
+            },
+            {
+              "goalId": 12941,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 1.0,
+              "maxValue": 2.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12941,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 100.0,
+              "maxValue": 150.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1846
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1847,
+      "frequency": 3,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:35.000+0800",
+      "fresh": "2020-06-01T23:47:44.000+0800",
+      "support": 3,
+      "md5": "-278095162"
+    },
+    "data": [
+      {
+        "id": 12942,
+        "goal": {
+          "goalId": 12942,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12942,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12942,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 100.0,
+              "maxValue": 150.0,
+              "unit": "元",
+              "value": ""
+            },
+            {
+              "goalId": 12942,
+              "key": "游玩时间",
+              "valueType": "enum",
+              "minValue": 0.0,
+              "maxValue": 999.0,
+              "unit": "",
+              "value": "1小时"
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1847
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1848,
+      "frequency": 5,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:35.000+0800",
+      "fresh": "2020-06-01T23:47:47.000+0800",
+      "support": 5,
+      "md5": "1884529235"
+    },
+    "data": [
+      {
+        "id": 12943,
+        "goal": {
+          "goalId": 12943,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12943,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12943,
+              "key": "游玩时间",
+              "valueType": "enum",
+              "minValue": 0.0,
+              "maxValue": 999.0,
+              "unit": "",
+              "value": "1小时"
+            },
+            {
+              "goalId": 12943,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 50.0,
+              "maxValue": 100.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1848
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1849,
+      "frequency": 2,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:35.000+0800",
+      "fresh": "2020-06-01T23:47:56.000+0800",
+      "support": 2,
+      "md5": "-2773241047"
+    },
+    "data": [
+      {
+        "id": 12946,
+        "goal": {
+          "goalId": 12946,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12946,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 0.0,
+              "maxValue": 1.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12946,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12946,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 100.0,
+              "maxValue": 150.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1849
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1850,
+      "frequency": 3,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:35.000+0800",
+      "fresh": "2020-06-01T23:47:45.000+0800",
+      "support": 3,
+      "md5": "-4536972601"
+    },
+    "data": [
+      {
+        "id": 12945,
+        "goal": {
+          "goalId": 12945,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12945,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 2.0,
+              "maxValue": 3.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12945,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12945,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 20.0,
+              "maxValue": 50.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1850
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1851,
+      "frequency": 4,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:35.000+0800",
+      "fresh": "2020-06-01T23:47:49.000+0800",
+      "support": 4,
+      "md5": "-278094201"
+    },
+    "data": [
+      {
+        "id": 12944,
+        "goal": {
+          "goalId": 12944,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12944,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12944,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 100.0,
+              "maxValue": 150.0,
+              "unit": "元",
+              "value": ""
+            },
+            {
+              "goalId": 12944,
+              "key": "游玩时间",
+              "valueType": "enum",
+              "minValue": 0.0,
+              "maxValue": 999.0,
+              "unit": "",
+              "value": "2小时"
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1851
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1852,
+      "frequency": 3,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:36.000+0800",
+      "fresh": "2020-06-01T23:47:43.000+0800",
+      "support": 3,
+      "md5": "-825940711"
+    },
+    "data": [
+      {
+        "id": 12947,
+        "goal": {
+          "goalId": 12947,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12947,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 2.0,
+              "maxValue": 3.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12947,
+              "key": "评分",
+              "valueType": "enum",
+              "minValue": 0.0,
+              "maxValue": 999.0,
+              "unit": "",
+              "value": "5分"
+            },
+            {
+              "goalId": 12947,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 100.0,
+              "maxValue": 150.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1852
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1853,
+      "frequency": 2,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:36.000+0800",
+      "fresh": "2020-06-01T23:47:46.000+0800",
+      "support": 2,
+      "md5": "929281495"
+    },
+    "data": [
+      {
+        "id": 12948,
+        "goal": {
+          "goalId": 12948,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12948,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12948,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 200.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12948,
+              "key": "游玩时间",
+              "valueType": "enum",
+              "minValue": 0.0,
+              "maxValue": 999.0,
+              "unit": "",
+              "value": "2小时"
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1853
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1854,
+      "frequency": 3,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:36.000+0800",
+      "fresh": "2020-06-01T23:47:41.000+0800",
+      "support": 3,
+      "md5": "1739867982"
+    },
+    "data": [
+      {
+        "id": 12949,
+        "goal": {
+          "goalId": 12949,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12949,
+              "key": "门票",
+              "valueType": "enum",
+              "minValue": 0.0,
+              "maxValue": 999.0,
+              "unit": "",
+              "value": "不免费"
+            },
+            {
+              "goalId": 12949,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 1.0,
+              "maxValue": 3.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12949,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1854
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1855,
+      "frequency": 2,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:36.000+0800",
+      "fresh": "2020-06-01T23:47:43.000+0800",
+      "support": 2,
+      "md5": "-1409653058"
+    },
+    "data": [
+      {
+        "id": 12950,
+        "goal": {
+          "goalId": 12950,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12950,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 2.0,
+              "maxValue": 4.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12950,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 0.0,
+              "maxValue": 20.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12950,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1855
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1856,
+      "frequency": 7,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:36.000+0800",
+      "fresh": "2020-06-01T23:47:45.000+0800",
+      "support": 7,
+      "md5": "-4536049080"
+    },
+    "data": [
+      {
+        "id": 12951,
+        "goal": {
+          "goalId": 12951,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12951,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 2.0,
+              "maxValue": 4.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12951,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12951,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 20.0,
+              "maxValue": 50.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1856
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1857,
+      "frequency": 2,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:36.000+0800",
+      "fresh": "2020-06-01T23:47:44.000+0800",
+      "support": 2,
+      "md5": "1943434462"
+    },
+    "data": [
+      {
+        "id": 12952,
+        "goal": {
+          "goalId": 12952,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12952,
+              "key": "门票",
+              "valueType": "enum",
+              "minValue": 0.0,
+              "maxValue": 999.0,
+              "unit": "",
+              "value": "不免费"
+            },
+            {
+              "goalId": 12952,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 2.0,
+              "maxValue": 4.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12952,
+              "key": "评分",
+              "valueType": "enum",
+              "minValue": 0.0,
+              "maxValue": 999.0,
+              "unit": "",
+              "value": "5分"
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1857
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1858,
+      "frequency": 2,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:36.000+0800",
+      "fresh": "2020-06-01T23:47:45.000+0800",
+      "support": 2,
+      "md5": "2126092362"
+    },
+    "data": [
+      {
+        "id": 12953,
+        "goal": {
+          "goalId": 12953,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12953,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 3.0,
+              "maxValue": 5.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12953,
+              "key": "评分",
+              "valueType": "enum",
+              "minValue": 0.0,
+              "maxValue": 999.0,
+              "unit": "",
+              "value": "5分"
+            },
+            {
+              "goalId": 12953,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 200.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1858
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1859,
+      "frequency": 2,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:36.000+0800",
+      "fresh": "2020-06-01T23:47:53.000+0800",
+      "support": 2,
+      "md5": "-1837006775"
+    },
+    "data": [
+      {
+        "id": 12954,
+        "goal": {
+          "goalId": 12954,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12954,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 3.0,
+              "maxValue": 4.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12954,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12954,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 100.0,
+              "maxValue": 150.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1859
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1860,
+      "frequency": 2,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:36.000+0800",
+      "fresh": "2020-06-01T23:47:48.000+0800",
+      "support": 2,
+      "md5": "1955782297"
+    },
+    "data": [
+      {
+        "id": 12955,
+        "goal": {
+          "goalId": 12955,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12955,
+              "key": "游玩时间",
+              "valueType": "enum",
+              "minValue": 0.0,
+              "maxValue": 999.0,
+              "unit": "",
+              "value": "0.5小时"
+            },
+            {
+              "goalId": 12955,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12955,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 50.0,
+              "maxValue": 100.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1860
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1861,
+      "frequency": 2,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:36.000+0800",
+      "fresh": "2020-06-01T23:47:56.000+0800",
+      "support": 2,
+      "md5": "-627784037"
+    },
+    "data": [
+      {
+        "id": 12956,
+        "goal": {
+          "goalId": 12956,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12956,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 3.0,
+              "maxValue": 6.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12956,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12956,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 200.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1861
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1862,
+      "frequency": 2,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:36.000+0800",
+      "fresh": "2020-06-01T23:47:56.000+0800",
+      "support": 2,
+      "md5": "1884531157"
+    },
+    "data": [
+      {
+        "id": 12957,
+        "goal": {
+          "goalId": 12957,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12957,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12957,
+              "key": "游玩时间",
+              "valueType": "enum",
+              "minValue": 0.0,
+              "maxValue": 999.0,
+              "unit": "",
+              "value": "3小时"
+            },
+            {
+              "goalId": 12957,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 50.0,
+              "maxValue": 100.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1862
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1863,
+      "frequency": 9,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:36.000+0800",
+      "fresh": "2020-06-01T23:47:48.000+0800",
+      "support": 9,
+      "md5": "-1415345671"
+    },
+    "data": [
+      {
+        "id": 12958,
+        "goal": {
+          "goalId": 12958,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12958,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 2.0,
+              "maxValue": 6.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12958,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12958,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 50.0,
+              "maxValue": 100.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1863
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1864,
+      "frequency": 3,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:36.000+0800",
+      "fresh": "2020-06-01T23:47:57.000+0800",
+      "support": 3,
+      "md5": "1892068890"
+    },
+    "data": [
+      {
+        "id": 12959,
+        "goal": {
+          "goalId": 12959,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12959,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 0.0,
+              "maxValue": 20.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12959,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12959,
+              "key": "游玩时间",
+              "valueType": "enum",
+              "minValue": 0.0,
+              "maxValue": 999.0,
+              "unit": "",
+              "value": "1小时"
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1864
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1865,
+      "frequency": 3,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:36.000+0800",
+      "fresh": "2020-06-01T23:47:54.000+0800",
+      "support": 3,
+      "md5": "-1985739161"
+    },
+    "data": [
+      {
+        "id": 12960,
+        "goal": {
+          "goalId": 12960,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12960,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 1.0,
+              "maxValue": 2.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12960,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12960,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 20.0,
+              "maxValue": 50.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1865
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  },
+  {
+    "info": {
+      "name": "景点",
+      "rpId": 1866,
+      "frequency": 3,
+      "description": "景点 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:36.000+0800",
+      "fresh": "2020-06-01T23:47:39.000+0800",
+      "support": 3,
+      "md5": "-2794639233"
+    },
+    "data": [
+      {
+        "id": 12961,
+        "goal": {
+          "goalId": 12961,
+          "content": "景点",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12961,
+              "key": "游玩时间",
+              "valueType": "region",
+              "minValue": 3.0,
+              "maxValue": 5.0,
+              "unit": "小时",
+              "value": ""
+            },
+            {
+              "goalId": 12961,
+              "key": "评分",
+              "valueType": "region",
+              "minValue": 4.0,
+              "maxValue": 9999.0,
+              "unit": "分",
+              "value": ""
+            },
+            {
+              "goalId": 12961,
+              "key": "门票",
+              "valueType": "region",
+              "minValue": 150.0,
+              "maxValue": 200.0,
+              "unit": "元",
+              "value": ""
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1866
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  }
+]

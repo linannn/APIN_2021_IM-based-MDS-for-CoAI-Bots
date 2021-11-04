@@ -1,0 +1,186 @@
+[
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 116,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:21.000+0800",
+      "fresh": "2020-06-01T23:47:47.000+0800",
+      "support": 2,
+      "md5": "-819874942"
+    },
+    "data": [
+      {
+        "id": 7088,
+        "goal": {
+          "goalId": 7088,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 116
+        },
+        "children": [
+          {
+            "id": 7090,
+            "goal": {
+              "goalId": 7090,
+              "content": "地铁",
+              "parentId": 7088,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 7090,
+                  "key": "目的地",
+                  "valueType": "enum",
+                  "minValue": 0.0,
+                  "maxValue": 999.0,
+                  "unit": "",
+                  "value": "北京香江戴斯酒店"
+                },
+                {
+                  "goalId": 7090,
+                  "key": "出发地",
+                  "valueType": "enum",
+                  "minValue": 0.0,
+                  "maxValue": 999.0,
+                  "unit": "",
+                  "value": "天安门广场"
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 116
+            },
+            "children": []
+          },
+          {
+            "id": 7093,
+            "goal": {
+              "goalId": 7093,
+              "content": "景点",
+              "parentId": 7088,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 7093,
+                  "key": "游玩时间",
+                  "valueType": "region",
+                  "minValue": 2.0,
+                  "maxValue": 3.0,
+                  "unit": "小时",
+                  "value": ""
+                },
+                {
+                  "goalId": 7093,
+                  "key": "评分",
+                  "valueType": "enum",
+                  "minValue": 0.0,
+                  "maxValue": 999.0,
+                  "unit": "",
+                  "value": "5分"
+                },
+                {
+                  "goalId": 7093,
+                  "key": "门票",
+                  "valueType": "region",
+                  "minValue": 100.0,
+                  "maxValue": 150.0,
+                  "unit": "元",
+                  "value": ""
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 116
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  },
+  {
+    "info": {
+      "name": "旅行",
+      "rpId": 117,
+      "frequency": 2,
+      "description": "旅行 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-01T23:50:21.000+0800",
+      "fresh": "2020-06-01T23:47:47.000+0800",
+      "support": 2,
+      "md5": "32160687"
+    },
+    "data": [
+      {
+        "id": 7089,
+        "goal": {
+          "goalId": 7089,
+          "content": "旅行",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 117
+        },
+        "children": [
+          {
+            "id": 7091,
+            "goal": {
+              "goalId": 7091,
+              "content": "地铁",
+              "parentId": 7089,
+              "requireId": -1,
+              "restricts": [
+                {
+                  "goalId": 7091,
+                  "key": "目的地",
+                  "valueType": "enum",
+                  "minValue": 0.0,
+                  "maxValue": 999.0,
+                  "unit": "",
+                  "value": "北京香江戴斯酒店"
+                },
+                {
+                  "goalId": 7091,
+                  "key": "出发地",
+                  "valueType": "enum",
+                  "minValue": 0.0,
+                  "maxValue": 999.0,
+                  "unit": "",
+                  "value": "天安门广场"
+                }
+              ],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 117
+            },
+            "children": []
+          },
+          {
+            "id": 7092,
+            "goal": {
+              "goalId": 7092,
+              "content": "景点",
+              "parentId": 7089,
+              "requireId": -1,
+              "restricts": [],
+              "optTargets": [],
+              "hasMatched": false,
+              "rpId": 117
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "goalNum": 3
+  }
+]

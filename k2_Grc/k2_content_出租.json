@@ -1,0 +1,51 @@
+[
+  {
+    "info": {
+      "name": "出租",
+      "rpId": 1892,
+      "frequency": 2,
+      "description": "出租 新生成",
+      "domain": "new",
+      "timestamp": "2020-06-02T01:47:50.000+0800",
+      "fresh": "2020-06-01T23:47:55.000+0800",
+      "support": 2,
+      "md5": "-1152383279"
+    },
+    "data": [
+      {
+        "id": 12987,
+        "goal": {
+          "goalId": 12987,
+          "content": "出租",
+          "parentId": -1,
+          "requireId": -1,
+          "restricts": [
+            {
+              "goalId": 12987,
+              "key": "目的地",
+              "valueType": "enum",
+              "minValue": 0.0,
+              "maxValue": 999.0,
+              "unit": "",
+              "value": "天安门广场"
+            },
+            {
+              "goalId": 12987,
+              "key": "出发地",
+              "valueType": "enum",
+              "minValue": 0.0,
+              "maxValue": 999.0,
+              "unit": "",
+              "value": "北京鹏润国际大酒店"
+            }
+          ],
+          "optTargets": [],
+          "hasMatched": false,
+          "rpId": 1892
+        },
+        "children": []
+      }
+    ],
+    "goalNum": 1
+  }
+]

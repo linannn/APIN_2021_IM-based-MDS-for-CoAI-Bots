@@ -1,0 +1,53 @@
+酒店
+{'key': '价格', 'valueType': 'region', 'minValue': 300.0, 'maxValue': 400.0, 'unit': '元', 'value': ''}
+{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '经济型'}
+52
+酒店
+56
+酒店
+57
+酒店
+58
+酒店
+61
+酒店
+62
+酒店
+64
+酒店
+91
+酒店
+93
+酒店
+95
+酒店
+97
+酒店
+98
+酒店
+102
+酒店
+104
+酒店
+111
+酒店
+112
+酒店
+115
+酒店
+139
+酒店
+{'key': '价格', 'valueType': 'region', 'minValue': 300.0, 'maxValue': 400.0, 'unit': '元', 'value': ''}
+{'key': '评分', 'valueType': 'region', 'minValue': 4.0, 'maxValue': 9999.0, 'unit': '分', 'value': ''}
+{'key': '酒店类型', 'valueType': 'enum', 'minValue': 0.0, 'maxValue': 999.0, 'unit': '', 'value': '经济型'}
+140
+酒店
+143
+酒店
+146
+酒店
+148
+酒店
+150
+酒店
